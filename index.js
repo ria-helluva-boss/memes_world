@@ -1,3 +1,5 @@
+const message = () => console.log(`I studying JavaScript !`);
+message();
 const memes1 = "./mem1.jpg";
 const memes2 = "./mem2.jpg";
 
