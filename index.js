@@ -18,10 +18,6 @@ currentImage = memes2;
 changeImage(currentImage);
 });
 
-function changeImage (memes){
-    gallertImage.src = memes;
-}
-
 prevButton.addEventListener("click", () => {
 currentImage = memes1;
 changeImage(currentImage);
